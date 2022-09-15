@@ -9,6 +9,7 @@ numpy = "*"
 seaborn = "*"
 matplotlib = "*"
 openpyxl = "*"
+sklearn = "*"
 
 [dev-packages]
 ipykernel = "*"
